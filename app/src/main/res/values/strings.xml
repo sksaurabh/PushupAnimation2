@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushupAnimation</string>
+    <string name="hello">Hello World, DaySeventeenActivity!</string>
+
+    <string name="test_one">This was our DaySeventeen test.</string>
+    <string name="click_me">Click Me</string>
+</resources>
